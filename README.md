@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [2956-find-common-elements-between-two-arrays](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/2956-find-common-elements-between-two-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [2956-find-common-elements-between-two-arrays](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/2956-find-common-elements-between-two-arrays) |
 <!---LeetCode Topics End-->
