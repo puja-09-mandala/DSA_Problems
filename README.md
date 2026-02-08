@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0905-sort-array-by-parity](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0912-sort-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0905-sort-array-by-parity](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0912-sort-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Counting
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0912-sort-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
