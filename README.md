@@ -66,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0905-sort-array-by-parity) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
