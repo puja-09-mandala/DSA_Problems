@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0231-power-of-two) |
 | [0693-binary-number-with-alternating-bits](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0693-binary-number-with-alternating-bits) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0136-single-number) |
 | [0905-sort-array-by-parity](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0912-sort-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
