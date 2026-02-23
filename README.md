@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0872-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -147,11 +149,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0872-leaf-similar-trees) |
 <!---LeetCode Topics End-->
