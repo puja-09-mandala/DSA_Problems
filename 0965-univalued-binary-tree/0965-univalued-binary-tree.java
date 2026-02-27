@@ -14,15 +14,17 @@
  * }
  */
 class Solution {
-    HashSet<Integer>ans=new HashSet<>();
+    List<Integer>ans=new ArrayList<>();
     public boolean isUnivalTree(TreeNode root) {
         if(root==null)
         {
             return true;
         }
         ans.add(root.val);
-    isUnivalTree(root.left);
-    isUnivalTree(root.right);
-    return ans.size()==1;
+        if(root.val!=ans.get(0))
+        {
+           return false;
+        }
+        return isUnivalTree(root.left)&& isUnivalTree(root.right);
     }
 }
