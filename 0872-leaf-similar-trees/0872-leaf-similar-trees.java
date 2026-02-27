@@ -14,24 +14,25 @@
  * }
  */
 class Solution {
-    public static void firt(TreeNode root,List<Integer>a)
+    public List<Integer> sequence(TreeNode root1,List<Integer>ans)
     {
-        if(root==null)
+        if(root1==null)
         {
-            return ;
+            return ans;
         }
-        if(root.left==null && root.right==null)
+        if(root1.left==null && root1.right==null)
         {
-            a.add(root.val);
+            ans.add(root1.val);
         }
-        firt(root.left,a);
-        firt(root.right,a);
+        sequence(root1.left,ans);
+        sequence(root1.right,ans);
+        return ans;
     }
     public boolean leafSimilar(TreeNode root1, TreeNode root2) {
-         List<Integer> list1 = new ArrayList<>();
-        List<Integer> list2 = new ArrayList<>();
-        firt(root1,list1);
-        firt(root2,list2);
-        return list1.equals(list2);
+     List<Integer>ans=new ArrayList<>();
+     List<Integer>ans1=new ArrayList<>();
+    ans=sequence(root1,ans);
+    ans1=sequence(root2,ans1);
+     return ans.equals(ans1);
     }
 }
