@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0268-missing-number) |
 | [0706-design-hashmap](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0706-design-hashmap) |
+| [0877-stone-game](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0912-sort-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0326-power-of-three) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0877-stone-game](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1486-xor-operation-in-an-array) |
 ## Binary Search
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0338-counting-bits) |
+| [0877-stone-game](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0877-stone-game) |
 ## Tree
 |  |
 | ------- |
@@ -230,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0706-design-hashmap) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
