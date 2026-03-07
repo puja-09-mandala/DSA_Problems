@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0206-reverse-linked-list) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0222-count-complete-tree-nodes](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0508-most-frequent-subtree-sum](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0508-most-frequent-subtree-sum) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0404-sum-of-left-leaves](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0222-count-complete-tree-nodes](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0508-most-frequent-subtree-sum](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0508-most-frequent-subtree-sum) |
@@ -217,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0404-sum-of-left-leaves](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0508-most-frequent-subtree-sum](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0513-find-bottom-left-tree-value) |
