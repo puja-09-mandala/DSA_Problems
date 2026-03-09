@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0563-binary-tree-tilt](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0563-binary-tree-tilt) |
+| [0623-add-one-row-to-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0872-leaf-similar-trees) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0623-add-one-row-to-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0965-univalued-binary-tree) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0563-binary-tree-tilt](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0563-binary-tree-tilt) |
+| [0623-add-one-row-to-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0872-leaf-similar-trees) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0563-binary-tree-tilt](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0563-binary-tree-tilt) |
+| [0623-add-one-row-to-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0872-leaf-similar-trees) |
 | [0951-flip-equivalent-binary-trees](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0951-flip-equivalent-binary-trees) |
