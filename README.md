@@ -280,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0257-binary-tree-paths) |
 | [1980-find-unique-binary-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1980-find-unique-binary-string) |
+## Database
+|  |
+| ------- |
+| [1683-invalid-tweets](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
