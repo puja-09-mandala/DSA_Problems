@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0508-most-frequent-subtree-sum](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0508-most-frequent-subtree-sum) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0508-most-frequent-subtree-sum](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0508-most-frequent-subtree-sum) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0508-most-frequent-subtree-sum](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0508-most-frequent-subtree-sum) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1382-balance-a-binary-search-tree) |
