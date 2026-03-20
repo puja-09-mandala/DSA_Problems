@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0797-all-paths-from-source-to-target](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0797-all-paths-from-source-to-target](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0872-leaf-similar-trees](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0872-leaf-similar-trees) |
 | [0951-flip-equivalent-binary-trees](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0951-flip-equivalent-binary-trees) |
 | [0965-univalued-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0965-univalued-binary-tree) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0257-binary-tree-paths) |
+| [0797-all-paths-from-source-to-target](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [1980-find-unique-binary-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1980-find-unique-binary-string) |
 ## Database
 |  |
@@ -349,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0654-maximum-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Graph Theory
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
