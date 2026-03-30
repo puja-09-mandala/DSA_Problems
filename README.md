@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0020-valid-parentheses) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0257-binary-tree-paths](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0257-binary-tree-paths) |
 | [1980-find-unique-binary-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1980-find-unique-binary-string) |
 ## Stack
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0404-sum-of-left-leaves) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0706-design-hashmap](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0706-design-hashmap) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Hash Function
@@ -367,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0797-all-paths-from-source-to-target) |
+## Trie
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
