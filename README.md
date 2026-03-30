@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1302-deepest-leaves-sum) |
 | [1609-even-odd-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1609-even-odd-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Binary Tree
 |  |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Quickselect
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0797-all-paths-from-source-to-target) |
+| [1971-find-if-path-exists-in-graph](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Trie
 |  |
@@ -381,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
