@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1609-even-odd-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1609-even-odd-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2608-shortest-cycle-in-a-graph](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/2608-shortest-cycle-in-a-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2608-shortest-cycle-in-a-graph](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/2608-shortest-cycle-in-a-graph) |
 ## Trie
 |  |
 | ------- |
