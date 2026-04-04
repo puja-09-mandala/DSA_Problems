@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1609-even-odd-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1302-deepest-leaves-sum) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1609-even-odd-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1609-even-odd-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
