@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0020-valid-parentheses) |
 | [0173-binary-search-tree-iterator](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0234-palindrome-linked-list) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0654-maximum-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0563-binary-tree-tilt](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0563-binary-tree-tilt) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0563-binary-tree-tilt](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0563-binary-tree-tilt) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
