@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0654-maximum-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0669-trim-a-binary-search-tree) |
+| [0687-longest-univalue-path](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0872-leaf-similar-trees) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0654-maximum-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0669-trim-a-binary-search-tree) |
+| [0687-longest-univalue-path](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0872-leaf-similar-trees) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0669-trim-a-binary-search-tree) |
+| [0687-longest-univalue-path](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0687-longest-univalue-path) |
 | [0797-all-paths-from-source-to-target](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0872-leaf-similar-trees](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0897-increasing-order-search-tree) |
