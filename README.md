@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0020-valid-parentheses) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0257-binary-tree-paths](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0257-binary-tree-paths) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0643-maximum-average-subarray-i) |
