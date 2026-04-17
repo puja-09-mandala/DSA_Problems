@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0136-single-number) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0268-missing-number) |
