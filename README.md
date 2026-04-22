@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0654-maximum-binary-tree) |
+| [0704-binary-search](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0724-find-pivot-index) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0713-subarray-product-less-than-k) |
 ## Dynamic Programming
 |  |
