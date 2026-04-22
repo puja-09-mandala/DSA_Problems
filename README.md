@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0268-missing-number) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0268-missing-number) |
