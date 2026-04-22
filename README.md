@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0713-subarray-product-less-than-k) |
 ## Dynamic Programming
@@ -462,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1695-maximum-erasure-value](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1695-maximum-erasure-value) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
