@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0239-sliding-window-maximum) |
 | [0912-sort-an-array](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -480,4 +483,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0278-first-bad-version) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
