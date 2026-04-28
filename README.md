@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0654-maximum-binary-tree) |
