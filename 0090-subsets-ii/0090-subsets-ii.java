@@ -9,11 +9,10 @@ class Solution {
         ans.add(arr[idx]);
         subsequence(arr, idx + 1, ans);
         ans.remove(ans.size() - 1);
-        int i = idx;
-        while (i + 1 < arr.length && arr[i] == arr[i + 1]) {
-            i++;
+        while (idx + 1 < arr.length && arr[idx] == arr[idx + 1]) {
+            idx++;
         }
-        subsequence(arr, i + 1, ans);
+        subsequence(arr, idx + 1, ans);
     }
     public List<List<Integer>> subsetsWithDup(int[] nums) {
         Arrays.sort(nums);   
