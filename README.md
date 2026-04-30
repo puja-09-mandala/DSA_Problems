@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0326-power-of-three) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0877-stone-game) |
 ## Tree
@@ -513,4 +515,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1441-build-an-array-with-stack-operations) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
