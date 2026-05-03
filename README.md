@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0257-binary-tree-paths) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0567-permutation-in-string) |
+| [0796-rotate-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1980-find-unique-binary-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1980-find-unique-binary-string) |
@@ -525,4 +526,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0509-fibonacci-number) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
