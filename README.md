@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0020-valid-parentheses) |
 | [0173-binary-search-tree-iterator](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0496-next-greater-element-i) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0654-maximum-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0897-increasing-order-search-tree) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0567-permutation-in-string) |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0654-maximum-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Graph Theory
