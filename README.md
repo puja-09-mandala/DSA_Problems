@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0904-fruit-into-baskets) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
