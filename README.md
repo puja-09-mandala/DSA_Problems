@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0136-single-number) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0268-missing-number) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0567-permutation-in-string) |
