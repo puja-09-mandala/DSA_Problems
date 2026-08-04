@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3731-find-missing-elements](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3731-find-missing-elements](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3731-find-missing-elements](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
