@@ -1,18 +1,22 @@
 class Solution {
-    int helper(int n,int arr[])
+    int helper(int n)
     {
-        if(n==1) return 1;
-        if(n==2 ) return 2;
-        if(arr[n]!=-1)
+       int arr[]=new int[n+1];
+        arr[1]=1;
+        arr[2]=2;
+        for(int i=3;i<=n;i++)
         {
-            return arr[n];
+            arr[i]=arr[i-1]+arr[i-2];
+
         }
-        return arr[n]=helper(n-1,arr)+helper(n-2,arr);
+        return arr[n];
     }
     public int climbStairs(int n) {
-        int arr[]=new int[n+1];
-        Arrays.fill(arr,-1);
-       int ans=helper(n,arr);
+        if(n<=2)
+        {
+            return n;
+        }
+       int ans=helper(n);
        return ans;
     }
 }
