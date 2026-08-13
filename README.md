@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0239-sliding-window-maximum) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0746-min-cost-climbing-stairs) |
