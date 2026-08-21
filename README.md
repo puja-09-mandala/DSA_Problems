@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0257-binary-tree-paths) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0234-palindrome-linked-list) |
@@ -561,5 +563,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0796-rotate-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
