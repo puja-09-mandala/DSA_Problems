@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3483-unique-3-digit-even-numbers](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3483-unique-3-digit-even-numbers](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -578,4 +581,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
