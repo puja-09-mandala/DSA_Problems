@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0257-binary-tree-paths) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0500-keyboard-row](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1108-defanging-an-ip-address) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0500-keyboard-row) |
 | [0508-most-frequent-subtree-sum](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0567-permutation-in-string) |
