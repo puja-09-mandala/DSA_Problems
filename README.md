@@ -494,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0627-swap-sex-of-employees](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0627-swap-sex-of-employees) |
 | [1683-invalid-tweets](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1683-invalid-tweets) |
 ## Greedy
 |  |
