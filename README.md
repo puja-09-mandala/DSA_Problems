@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1480-running-sum-of-1d-array) |
