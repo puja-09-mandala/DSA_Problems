@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1528-shuffle-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1528-shuffle-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1980-find-unique-binary-string) |
 ## Stack
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1528-shuffle-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1528-shuffle-string) |
 | [1695-maximum-erasure-value](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1695-maximum-erasure-value) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1980-find-unique-binary-string) |
