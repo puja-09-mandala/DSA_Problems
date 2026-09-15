@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2553-separate-the-digits-in-an-array](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/3731-find-missing-elements) |
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0832-flipping-an-image](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0832-flipping-an-image) |
 | [1441-build-an-array-with-stack-operations](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1441-build-an-array-with-stack-operations) |
+| [2553-separate-the-digits-in-an-array](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/2553-separate-the-digits-in-an-array) |
 ## Memoization
 |  |
 | ------- |
