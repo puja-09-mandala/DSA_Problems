@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/3731-find-missing-elements) |
+| [3945-digit-frequency-score](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
 | ------- |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3945-digit-frequency-score](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
 | ------- |
