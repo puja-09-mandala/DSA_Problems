@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1695-maximum-erasure-value) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1980-find-unique-binary-string) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2553-separate-the-digits-in-an-array](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/2553-separate-the-digits-in-an-array) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3731-find-missing-elements](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Two Pointers
 |  |
 | ------- |
@@ -517,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0561-array-partition) |
 | [1323-maximum-69-number](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1323-maximum-69-number) |
 | [1382-balance-a-binary-search-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Iterator
 |  |
 | ------- |
