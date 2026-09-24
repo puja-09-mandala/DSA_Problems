@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3701-compute-alternating-sum](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1688-count-of-matches-in-tournament) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3945-digit-frequency-score](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/3945-digit-frequency-score) |
 ## Binary Search
