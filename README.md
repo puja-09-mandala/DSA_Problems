@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0796-rotate-string) |
+| [0804-unique-morse-code-words](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0804-unique-morse-code-words) |
 | [1108-defanging-an-ip-address](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1528-shuffle-string) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [0804-unique-morse-code-words](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0804-unique-morse-code-words) |
 | [0832-flipping-an-image](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0904-fruit-into-baskets) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0645-set-mismatch) |
 | [0706-design-hashmap](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0706-design-hashmap) |
+| [0804-unique-morse-code-words](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0804-unique-morse-code-words) |
 | [0904-fruit-into-baskets](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
