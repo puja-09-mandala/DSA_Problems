@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0832-flipping-an-image) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1486-xor-operation-in-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## String
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1528-shuffle-string) |
 | [1695-maximum-erasure-value](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1695-maximum-erasure-value) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1980-find-unique-binary-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1688-count-of-matches-in-tournament) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3945-digit-frequency-score](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/3945-digit-frequency-score) |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0257-binary-tree-paths) |
 | [0797-all-paths-from-source-to-target](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0797-all-paths-from-source-to-target) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1980-find-unique-binary-string) |
 ## Database
 |  |
@@ -624,9 +628,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0832-flipping-an-image) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
