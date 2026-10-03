@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0912-sort-an-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1313-decompress-run-length-encoded-list](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1313-decompress-run-length-encoded-list) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
