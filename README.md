@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0912-sort-an-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1266-minimum-time-visiting-all-points](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1313-decompress-run-length-encoded-list](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1313-decompress-run-length-encoded-list) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/0877-stone-game) |
+| [1266-minimum-time-visiting-all-points](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1486-xor-operation-in-an-array) |
@@ -639,4 +641,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/puja-09-mandala/https-github.com-puja-09-mandala-DSA/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
